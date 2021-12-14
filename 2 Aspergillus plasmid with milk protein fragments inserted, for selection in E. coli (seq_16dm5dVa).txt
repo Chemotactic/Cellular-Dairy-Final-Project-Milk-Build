@@ -1,0 +1,3 @@
+2 Aspergillus plasmid with milk protein fragments inserted, for selection in E. coli
+creator: FRC
+marker: HygR

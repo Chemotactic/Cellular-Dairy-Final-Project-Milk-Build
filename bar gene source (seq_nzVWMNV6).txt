@@ -1,0 +1,2 @@
+bar gene source
+marker: KanR, BlpR

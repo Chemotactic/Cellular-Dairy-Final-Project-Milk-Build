@@ -1,0 +1,22 @@
+LOCUS       bar_gene                 552 bp ds-DNA     linear       05-DEC-2021
+DEFINITION  .
+KEYWORDS    "marker:KanR, BlpR"                                                
+FEATURES             Location/Qualifiers
+     CDS             1..552
+                     /label="bar"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     exon            1..552
+                     /label="Translation 1-552"
+ORIGIN
+        1 atgagcccag aacgacgccc ggccgacatc cgccgtgcca ccgaggcgga catgccggcg
+       61 gtctgcacca tcgtcaacca ctacatcgag acaagcacgg tcaacttccg taccgagccg
+      121 caggaaccgc aggagtggac ggacgacctc gtccgtctgc gggagcgcta tccctggctc
+      181 gtcgccgagg tggacggcga ggtcgccggc atcgcctacg cgggtccctg gaaggcacgc
+      241 aacgcctacg actggacggc cgaatcgacc gtgtacgtct ccccccgcca ccagcggacg
+      301 ggactgggct ccacgctcta cacccacctg ctgaagtccc tggaggcaca gggcttcaag
+      361 agcgtggtcg ctgtcatcgg gctgcccaac gacccgagcg tgcgcatgca cgaggcgctc
+      421 ggatatgccc cccgcggcat gctgcgggcg gccggcttca agcacgggaa ctggcatgac
+      481 gtgggtttct ggcagctgga cttcagcctg ccggttccgc cccgtccggt cctgcccgtc
+      541 accgagattt ag
+//

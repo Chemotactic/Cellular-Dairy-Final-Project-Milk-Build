@@ -1,0 +1,2 @@
+bar_gene
+marker: KanR, BlpR

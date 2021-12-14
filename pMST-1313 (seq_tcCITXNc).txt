@@ -1,0 +1,2 @@
+pMST-1313
+marker: HygR

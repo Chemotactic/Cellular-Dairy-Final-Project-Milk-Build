@@ -1,0 +1,64 @@
+LOCUS       Protein_1:_B_casein     2049 bp ds-DNA     linear       07-DEC-2021
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    1..246
+                     /label="GlaA secretion tag"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     exon            1..246
+                     /label="Translation 1-246"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     CDS             247..1020
+                     /label="deer b casein"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     exon            247..1020
+                     /label="Translation 247-1020"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     exon            247..1020
+                     /label="Translation 247-1020"
+     CDS             1021..2049
+                     /label="HygR"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     CDS             1021..2049
+                     /label="Translation 1021-2049"
+ORIGIN
+        1 ATATCCATTG AAAGCACTTG AGAAAAGATG CGGTGGCTTC TCACCTCGTC CGCACTGTTA
+       61 GTGCCGGCCG CAGCCCTGGT TCGACCCGAT GGCGTGGGCC GCACTCCTGC CCTTGGCTGG
+      121 AACTCTTGGA ACGCATACAG CTGCGACATT GATGCCGACA AAATCGTGAC TGCCGCCAAC
+      181 GAGGTGGTCA ATCTGGGGTT GAAGGACCTG GGATATGAGT ATATCAACAT CGACGACTGC
+      241 TGGTCCatgc ccctaaatac catctataaa cagccacaga atcaaataat tatccattcc
+      301 gggagcccat cattactggt cttgtacgtg ggaaaagagg aacttcgggc aatgaaggtc
+      361 ctgatcctgg catgtctcgt tgcattagcg ttagccaagg aggaggaact gaacgtttcg
+      421 agcgagatcg ttgagtctat ctcctcctct gaagagtcga ttacgcacat cactaaaaag
+      481 atcgaaaaat tgcaaagtga aggacaacag caggcagaag atgaactcca agataagata
+      541 catccctttg cccaaacgca gagcctcgtg tacccattca cggggcctat cccctatagc
+      601 ctacctcaga attttctacc attaccccag acccccgtca tggttcctcc gttccttcaa
+      661 ccggagatca tgggagtcag cgaggttaag gaaactatgg ttccaaagca taaagagatg
+      721 ccttttccaa aatatccggt tgagccattt gcggaggggc agagcctcac attaaccgaa
+      781 gctgagaatt tacactttcc tttgccgttg ccacagtcgt ggatgcatca gactcctcaa
+      841 cccctacccc cggccgtcat gtttccgcca caatctgtgc tgtccctcag tcaaccaaaa
+      901 gttttgagcg tgccccaaaa ggcagttccg tatcctcaac gtgatatgcc tatccaagcg
+      961 tttcttttgt atcaggagcc agtcccgggc ccggtacgag gcccctttcc tttcatcgtc
+     1021 atgggtaaaa agcctgaact caccgcgacg tctgtcgaga agtttctgat cgaaaagttc
+     1081 gacagcgtct ccgacctgat gcagctctcg gagggcgaag aatctcgtgc tttcagcttc
+     1141 gatgtaggag ggcgtggata tgtcctgcgg gtaaatagct gcgccgatgg tttctacaaa
+     1201 gatcgttatg tttatcggca ctttgcatcg gccgcgctcc cgattccgga agtgcttgac
+     1261 attggggaat tcagcgagag cctgacctat tgcatctccc gccgtgcaca gggtgtcacg
+     1321 ttgcaagacc tccctgaaac cgaactgccc gctgttctgc agccggtcgc ggaggccatg
+     1381 gatgcgatcg ctgcggccga tcttagccag acgagcgggt tcggcccatt cggaccgcaa
+     1441 ggaatcggtc aatacactac atggcgtgat ttcatatgcg cgattgctga tccccatgtg
+     1501 tatcactggc aaactgtgat ggacgacacc gtcagtgcgt ccgtcgcgca ggctctcgat
+     1561 gagctgatgc tttgggccga ggactgcccc gaagtccggc acctcgtgca cgcggatttc
+     1621 ggctccaaca atgtcctgac ggacaatggc cgcataacag cggtcattga ctggagcgag
+     1681 gcgatgttcg gggattccca atacgaggtc gccaacatct tcttctggag gccgtggttg
+     1741 gcttgtatgg agcagcagac gcgctacttc gagcggaggc atccggagct tgcaggatcg
+     1801 ccgcggctcc gggcgtatat gctccgcatt ggtcttgacc aactctatca gagcttggtt
+     1861 gacggcaatt tcgatgatgc agcttgggcg cagggtcgat gcgacgcaat cgtccgatcc
+     1921 ggagccggga ctgtcgggcg tacacaaatc gcccgcagaa gcgcggccgt ctggaccgat
+     1981 ggctgtgtag aagtactcgc cgatagtgga aaccgacgcc ccagcactcg tccgagggca
+     2041 aaggaataa
+//

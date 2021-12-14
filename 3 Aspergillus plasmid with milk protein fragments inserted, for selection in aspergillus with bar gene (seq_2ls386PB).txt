@@ -1,0 +1,3 @@
+3 Aspergillus plasmid with milk protein fragments inserted, for selection in aspergillus with bar gene
+creator: FRC
+marker: HygR
